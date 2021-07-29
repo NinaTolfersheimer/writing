@@ -7,9 +7,9 @@ I've provided a literal translation for every text, though this process obviousl
 
 ## Available Texts
 These texts are provided [in the actual GitHub repo](https://github.com/NinaTolfersheimer/writing):
-- Der letzte Gladiator || The Last Gladiator
-- eigene Strophen zur Europahymne || own strophes of the European anthem
-- Unter den Wolken der einsame Abend || Underneath The Clouds The Lonely Evening
+- Der letzte Gladiator / The Last Gladiator
+- eigene Strophen zur Europahymne / own strophes of the European anthem
+- Unter den Wolken der einsame Abend / Underneath The Clouds The Lonely Evening
 
 ## Disclaimer
 Some of these texts no longer represent my current state of mind and/or point of view
