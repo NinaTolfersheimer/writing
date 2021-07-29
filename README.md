@@ -11,5 +11,7 @@ These texts are provided [in the actual GitHub repo](https://github.com/NinaTolf
 - eigene Strophen zur Europahymne / own strophes of the European anthem
 - Unter den Wolken der einsame Abend / Underneath The Clouds The Lonely Evening
 
-## Disclaimer
-Some of these texts no longer represent my current state of mind and/or point of view
+## Disclaimer & Copyright
+Some of these texts no longer represent my current state of mind and/or point of view.
+
+All texts: ©2020-2021 Nina Tolfersheimer. Any unauthorized usage prohibited. Only individual permissions in writing are to be considered valid.
